@@ -8,21 +8,21 @@ app.beaconRegions =
 [
 	{
 		id: 'page-feet',
-		uuid:'A4950001-C5B1-4B44-B512-1370F02D74DE',
-		major: 1,
-		minor: 1
+		uuid:'61687109-905F-4436-91F8-E602F514C96D',
+		major: 3,
+		minor: 3947
 	},
 	{
 		id: 'page-shoulders',
-		uuid:'A4950001-C5B1-4B44-B512-1370F02D74DE',
-		major: 1,
-		minor: 2
+		uuid:'61687109-905F-4436-91F8-E602F514C96D',
+		major: 3,
+		minor: 4199
 	},
 	{
 		id: 'page-face',
-		uuid:'A4950001-C5B1-4B44-B512-1370F02D74DE',
-		major: 1,
-		minor: 3
+		uuid:'61687109-905F-4436-91F8-E602F514C96D',
+		major: 3,
+		minor: 4504
 	}
 ]
 
